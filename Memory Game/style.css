@@ -1,0 +1,18 @@
+* {
+    background: greenyellow;
+}
+
+.grid {
+    display: flex;
+    flex-wrap:wrap;
+    height: 200px;
+    width: 1000px;
+    padding-top: 100px;
+    padding-left: 300px;
+ 
+
+}
+
+h3 {
+    text-align: center;
+}
